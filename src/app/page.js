@@ -1,8 +1,8 @@
 "use client";
+import Card from "import/components/Card";
 import Footer from "import/components/Footer";
 import Header from "import/components/Header";
 import Sidebar from "import/components/Sidebar";
-import Card from "import/components/Card";
 import { useEffect, useState } from "react";
 
 export default function Home() {
